@@ -8,7 +8,7 @@ An Enterprise-grade, Multi-tenant Smart Parking Management Platform built with *
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.1-green)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/gsr18/Smart-Parking-Lot-Management-System)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/gsr18/Smart-Parking-Lot-Management-Syste)
 
 ---
 
@@ -16,7 +16,7 @@ An Enterprise-grade, Multi-tenant Smart Parking Management Platform built with *
 
 - **1-Click Cloud Deploy**: [Deploy to Render](https://render.com/deploy?repo=https://github.com/gsr18/Smart-Parking-Lot-Management-System)
 - **Live Web App (Vercel)**: [https://smart-parking-lot-management-system-olive.vercel.app/](https://smart-parking-lot-management-system-olive.vercel.app/)
-- **Live Web App (GitHub Pages)**: [https://gsr18.github.io/Smart-Parking-Lot-Management-System/](https://gsr18.github.io/Smart-Parking-Lot-Management-System/)
+- **Live Web App (GitHub Pages)**: [https://gsr18.github.io/Smart-Parking-Lot-Management-System/](https://gsr18.github.io/ParkGrid/)
 - **GitHub Repository**: [https://github.com/gsr18/Smart-Parking-Lot-Management-System](https://github.com/ParkGrid)
 
 ---

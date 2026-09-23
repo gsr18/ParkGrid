@@ -16,8 +16,8 @@ An Enterprise-grade, Multi-tenant Smart Parking Management Platform built with *
 
 - **1-Click Cloud Deploy**: [Deploy to Render](https://render.com/deploy?repo=https://github.com/gsr18/Smart-Parking-Lot-Management-System)
 - **Live Web App (Vercel)**: [https://smart-parking-lot-management-system-olive.vercel.app/](https://smart-parking-lot-management-system-olive.vercel.app/)
-- **Live Web App (GitHub Pages)**: [https://gsr18.github.io/Smart-Parking-Lot-Management-System/](https://gsr18.github.io/ParkGrid/)
-- **GitHub Repository**: [https://github.com/gsr18/Smart-Parking-Lot-Management-System](https://github.com/ParkGrid)
+- **Live Web App (GitHub Pages)**: [https://gsr18.github.io/ParkGrid/](https://gsr18.github.io/ParkGrid/)
+- **GitHub Repository**: [https://github.com/gsr18/ParkGrid](https://github.com/ParkGrid)
 
 ---
 
